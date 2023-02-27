@@ -17,7 +17,7 @@
         "src/app/core/*"
       ]
     },
-    "outDir": "./dist/dosti-client-ngweb",
+    "outDir": "./dist/school-client-ngweb",
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "noImplicitOverride": true,

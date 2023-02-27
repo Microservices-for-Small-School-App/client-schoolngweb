@@ -22,5 +22,5 @@ import { HeaderComponent } from '~core/layout/header/header.component';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'dosti-client-ngweb';
+  title = 'school-client-ngweb';
 }
